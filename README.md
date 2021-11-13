@@ -1,1 +1,1 @@
-# Logistic-Regression---Pima-Indians-Dataset
+# Logistic-Regression-Pima-Indians-Dataset
