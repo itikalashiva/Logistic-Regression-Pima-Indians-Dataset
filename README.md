@@ -10,7 +10,9 @@ Indians Diabetes Database dataset and predict if a patient has Diabetes or not b
 measures supplied in the dataset. Gradient Descent is used to optimize weights and bias. On the test set,
 
 an accuracy of 80% is obtained.
+
 <hr>
+
 **1.Introduction**
 
 Pima Indians with type 2 diabetes are **metabolically characterized by obesity, insulin resistance**,
@@ -22,6 +24,7 @@ clinical characteristics that define this disease across most populations. In th
 glucose levels, skin thickness, and insulin levels are used to determine whether a person has diabetes.
 
 <hr>
+
 **2.Dataset**
 
 Pima Indians Diabetes Database dataset will be used for training, and testing. The dataset contains
